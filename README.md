@@ -10,8 +10,9 @@ This AI Engineering portfolio containing **ML**,**DL**,**GenAI**,**Prompt Engine
 - 🔗 [Support Vector Classifier](https://github.com/Jeevan-Sannapaneni/Support-Vector-Classifier) – Implemented SVC using scikit-learn with linear & RBF kernels, including hyperparameter tuning and visualizations.
 - 🔗 [Agglomerative Clustering](https://github.com/Jeevan-Sannapaneni/Agglomerative_clustering) – Unsupervised hierarchical clustering with dendrograms and linkage techniques.
 - 🔗 [KMeans Clustering](https://github.com/Jeevan-Sannapaneni/KMeansClustering) – Centroid-based clusters, elbow method, and visualization.
+- 🔗 [Logistic Regression](https://github.com/Jeevan-Sannapaneni/Logistic_Regression) – Binary classification using Logistic Regression with data preprocessing and evaluation metrics.
 
-
+- 
 ## 🧠 Deep Learning Projects
 - 🔗 [Add Link Here]
 
