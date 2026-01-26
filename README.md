@@ -12,3 +12,4 @@ This AI Engineering portfolio containing **ML**,**DL**,**GenAI**,**Prompt Engine
 - 🔗 [KMeans Clustering](https://github.com/Jeevan-Sannapaneni/KMeansClustering) – Centroid-based clusters, elbow method, and visualization.
 - 🔗 [Logistic Regression](https://github.com/Jeevan-Sannapaneni/Logistic_Regression) – Binary classification using Logistic Regression with data preprocessing and evaluation metrics.
 - 🔗 [Random Forest Classifier – CVD Risk Prediction](https://github.com/Jeevan-Sannapaneni/RandomForestClassifier) – Predicts cardiovascular disease risk levels using Random Forest, including preprocessing, feature encoding, model training, and evaluation.
+- 🔗 [Random Forest Regressor — T20 Match Score Prediction](https://github.com/Jeevan-Sannapaneni/RandomForestRegressor) – End-to-end ML application predicting T20 total scores using historical match data, feature engineering, and real-time inputs.
